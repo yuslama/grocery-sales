@@ -19,14 +19,5 @@ The data for this analysis is available in the table `products`, which contains 
 | year_added         | Nominal. The year the product was first added to FoodYum stock. Missing values are replaced with 2022.  |
 | stock_location     | Nominal. The stock origin location, one of four warehouse locations (A, B, C, D). Missing values are replaced with "Unknown".  |
 
-## Tasks
-
-### Task 1: Identify Missing Year Added Values
-
-There was a bug in the product system last year (2022), which caused the `year_added` value to be missing for some products. It is important to identify how many products have the `year_added` value missing.
-
-**Query:**
-```sql
-SELECT COUNT(*) AS missing_year
-FROM products
-WHERE year_added IS NULL;
+## Conclusion
+This project provided insights into the sales data of FoodYum, ensuring data quality by identifying missing values, cleaning data, and analyzing price ranges and sales performance. The clean dataset and analysis will help FoodYum make informed decisions about stocking products to meet customer needs across different price ranges.
