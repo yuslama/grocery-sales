@@ -1,8 +1,8 @@
-# Grocery Store Sales Analysis
+# Grocery Store Product Analysis
 
 ## Overview
 
-This *SQL* project analyzes the sales data of a grocery store chain, FoodYum, based in the United States. FoodYum sells a variety of products, including produce, meat, dairy, baked goods, snacks, and other household food staples. With rising food costs, the goal is to ensure that the store continues to stock products in all categories that cover a range of prices, catering to a broad range of customers.
+This *SQL* project analyzes the product data of a grocery store chain, FoodYum, based in the United States. FoodYum sells a variety of products, including produce, meat, dairy, baked goods, snacks, and other household food staples. With rising food costs, the goal is to ensure that the store continues to stock products in all categories that cover a range of prices, catering to a broad range of customers.
 
 ## Data
 
